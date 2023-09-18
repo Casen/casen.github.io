@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-category: General
+category: [Life, Philosophy]
 ---
 
 Welcome to my very first blog post! I've mulled over the idea of writing a blog for well over a decade now. I've taken small bites of blogging, shuttled them back and forth in my mouth, but I've never been quite satisfied with the taste or texture. Sometimes it's the words themselves. Other days it's the medium they are written on. Somewhere underneath all of that there's a voice that's yet to be realized. 
